@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:geotracker="http://ilyabogdanovich.com/gpx/extensions/geotracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="Geo Tracker 3.3.0.1338 for Android by Ilya Bogdanovich">
+  <metadata>
+    <name>15 Oct 2017 9:47:07 am</name>
+    <author>
+      <name>Recorded in Geo Tracker for Android from Ilya Bogdanovich</name>
+      <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    </author>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <time>2017-10-15T04:17:07.885Z</time>
+  </metadata>
+  <wpt lat="15.412889" lon="73.988731">
+    <ele>-2</ele>
+    <time>2017-10-15T04:17:31.000Z</time>
+    <name>Farmagudi Circle/Shivaji statue/GEC college</name>
+    <desc>Coords: 15.4128895, 73.98873
+Elevation: -7 ft
+Time: 15 Oct 2017 9:47:31 am</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <trk>
+    <name>15 Oct 2017 9:47:07 am</name>
+    <src>Recorded in Geo Tracker for Android from Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <length>603.46</length>
+        <duration>256592</duration>
+        <creationtime>2017-10-15T04:17:07.885Z</creationtime>
+        <activity>0</activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="15.416632" lon="73.986259">
+        <ele>-11</ele>
+        <time>2017-10-15T04:18:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="311.8" s="11.71" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.416764" lon="73.986122">
+        <ele>-13</ele>
+        <time>2017-10-15T04:18:41.000Z</time>
+        <extensions>
+          <geotracker:meta c="317.3" s="11.1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.41744" lon="73.98571">
+        <ele>-14</ele>
+        <time>2017-10-15T04:18:49.000Z</time>
+        <extensions>
+          <geotracker:meta c="334.4" s="11.52" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.417639" lon="73.985603">
+        <ele>-15</ele>
+        <time>2017-10-15T04:18:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="334.4" s="12.29" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.417839" lon="73.985519">
+        <ele>-15</ele>
+        <time>2017-10-15T04:18:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="338.1" s="12.3" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.41819" lon="73.985344">
+        <ele>-17</ele>
+        <time>2017-10-15T04:18:57.000Z</time>
+        <extensions>
+          <geotracker:meta c="337.1" s="11.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.418598" lon="73.985237">
+        <ele>-20</ele>
+        <time>2017-10-15T04:19:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="343.7" s="11.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.418796" lon="73.985168">
+        <ele>-21</ele>
+        <time>2017-10-15T04:19:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="344.4" s="11.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.418997" lon="73.985115">
+        <ele>-21</ele>
+        <time>2017-10-15T04:19:05.000Z</time>
+        <extensions>
+          <geotracker:meta c="344.7" s="11.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.421094" lon="73.984428">
+        <ele>-17</ele>
+        <time>2017-10-15T04:19:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="27.6" s="10.72" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.421266" lon="73.98452">
+        <ele>-18</ele>
+        <time>2017-10-15T04:19:31.000Z</time>
+        <extensions>
+          <geotracker:meta c="31.2" s="11.54" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.421428" lon="73.984657">
+        <ele>-5</ele>
+        <time>2017-10-15T04:19:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="33.2" s="11.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="15.42161" lon="73.984764">
+        <ele>-10</ele>
+        <time>2017-10-15T04:19:35.000Z</time>
+        <extensions>
+          <geotracker:meta c="28.4" s="11.73" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
